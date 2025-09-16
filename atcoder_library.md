@@ -1,4 +1,4 @@
-```
+
 
 AtCoder Library (ACL) には、競技プログラミングでよく使われる**高度なデータ構造とアルゴリズム**が多数含まれています。主なカテゴリをご紹介します：
 
@@ -77,4 +77,3 @@ AtCoderのコンテストではこれらのライブラリを自由に使用で�
 どのライブラリが使えるかは `from atcoder import *` して確認するか、[公式ドキュメント](https://atcoder.github.io/ac-library/production/document_ja/)を参照すると良いでしょう。
 
 
-```
